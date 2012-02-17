@@ -5,4 +5,5 @@ gem 'unicorn'
 gem 'foreman'
 gem 'rspec'
 gem 'rack-test'
+gem 'ZenTest'
 
