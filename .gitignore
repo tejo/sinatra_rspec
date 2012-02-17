@@ -1,0 +1,15 @@
+*~
+images/*
+coverage/
+.DS_Store
+.rvmrc
+*.swc
+*.swo
+*.swp
+*.swn
+.bundle
+db/*.sqlite3
+db/backup
+log/*.log
+tmp/
+.sass-cache/
