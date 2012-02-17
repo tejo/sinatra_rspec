@@ -6,4 +6,5 @@ gem 'foreman'
 gem 'rspec'
 gem 'rack-test'
 gem 'ZenTest'
-
+gem 'vcr'
+gem 'fakeweb'
