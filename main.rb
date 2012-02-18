@@ -1,5 +1,5 @@
-require 'rubygems'
 require 'sinatra'
+require './lib/sucker'
 
 get '/' do
   ''
